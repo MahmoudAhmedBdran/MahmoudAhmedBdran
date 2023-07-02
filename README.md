@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:![image](https://github.com/MahmoudAhmedBdran/MahmoudAhmedBdran/assets/138399185/6471d6e2-fc16-4872-ba52-8b30917e3898 width="100px")
- , KOTLIN /ANDROID
+Skills:![image](https://github.com/MahmoudAhmedBdran/MahmoudAhmedBdran/assets/138399185/6471d6e2-fc16-4872-ba52-8b30917e3898)![image](https://github.com/MahmoudAhmedBdran/MahmoudAhmedBdran/assets/138399185/e11fa971-9f72-4aa6-a50b-6314b7c6d385)
+
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Programming  
